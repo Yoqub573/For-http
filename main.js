@@ -1,3 +1,3 @@
-import { get } from "./dom.js";
+import { get } from "./api.js";
 
 get()

@@ -6,7 +6,7 @@ export default function getData(data) {
     let div = document.createElement("div");
 
     let h1Name = document.createElement("h1");
-    h1Name.innerHTML = e.username;
+    h1Name.innerHTML = e.name;
 
     let pAge = document.createElement("p");
     pAge.innerHTML = e.age;
